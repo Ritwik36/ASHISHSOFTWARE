@@ -20,5 +20,6 @@ System.out.println(cname);
 System.out.println(phone);
 System.out.println(phone);
 System.out.println(ritwik);
+System.out.println(sonu);
 }
 }
